@@ -10,3 +10,5 @@ console.log('Porygon-Z'.toUpperCase());
 
 console.log('Porygon-Z'.startsWith('P'));
 console.log('Porygon-Z'.startsWith('H'));
+
+console.log(Math.random() * 100);
